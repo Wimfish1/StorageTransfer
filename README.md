@@ -8,6 +8,10 @@ An easy command to allow players to quickly transfer all items from inventory to
 - Blacklist certain items within the config
 - Change the distance away from the storage players can be with config
 
+## Permission
+
+- `depositall` is the only permission you need to be able to use the command.
+
 ## Example Configuration 
 
 ```xml
@@ -20,3 +24,6 @@ An easy command to allow players to quickly transfer all items from inventory to
   <MaxDistance>5</MaxDistance>
 </StorageTransferConfiguration>
 ```
+## Additions
+
+If anyone wants to add a UI to it rather than a command feel free to fork it and do so, I just don't have the knowledge to do UI currently.

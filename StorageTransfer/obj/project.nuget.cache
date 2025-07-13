@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9s8ys0/FZO8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\RiderProjects\\StorageTransfer\\StorageTransfer\\StorageTransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\restoremonarchy.rocketredist\\3.25.7\\restoremonarchy.rocketredist.3.25.7.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\restoremonarchy.unturnedredist\\3.25.7\\restoremonarchy.unturnedredist.3.25.7.nupkg.sha512"
+  ],
+  "logs": []
+}

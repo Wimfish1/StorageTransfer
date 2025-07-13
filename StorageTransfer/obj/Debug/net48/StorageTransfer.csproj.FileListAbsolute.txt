@@ -1,0 +1,9 @@
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\bin\Debug\net48\StorageTransfer.dll
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\bin\Debug\net48\StorageTransfer.pdb
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.csproj.AssemblyReference.cache
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.AssemblyInfoInputs.cache
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.AssemblyInfo.cs
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.csproj.CoreCompileInputs.cache
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.dll
+C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\obj\Debug\net48\StorageTransfer.pdb

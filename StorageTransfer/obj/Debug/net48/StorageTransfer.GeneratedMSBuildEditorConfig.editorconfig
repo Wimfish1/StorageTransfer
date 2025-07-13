@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = WFStudios.StorageTransfer
+build_property.ProjectDir = C:\Users\willi\RiderProjects\StorageTransfer\StorageTransfer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
